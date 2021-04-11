@@ -1,5 +1,5 @@
  p { 
         color: #0000e6;
-	background: #ffc299;
+	background-color: #ffc299;
 	font-family; arial;
 	}
